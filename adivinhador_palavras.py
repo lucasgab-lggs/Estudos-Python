@@ -29,6 +29,7 @@ while turnos > 0:
     if restantes == 0:
         print("Você venceu!")
         print("A palavra era:", palavra)
+        break
     
     '''Recebimento de entrada para o palpite do usuário'''
     tentativa = input("Qual letra? ")

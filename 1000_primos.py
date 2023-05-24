@@ -18,3 +18,4 @@ while len(lista) < 1000:
 
 for j in range(0, len(lista)):
     print(f'[{j+1}] = {lista[j]}')
+    

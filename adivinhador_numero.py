@@ -21,3 +21,4 @@ while True:
         print('Você chutou baixo!')
     else:
         print('Você chutou alto!')
+        
